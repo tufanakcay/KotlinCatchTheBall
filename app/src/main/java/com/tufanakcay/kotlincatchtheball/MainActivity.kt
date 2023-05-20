@@ -1,7 +1,4 @@
 package com.tufanakcay.kotlincatchtheball
-
-
-
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -13,8 +10,6 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import com.tufanakcay.kotlincatchtheball.databinding.ActivityMainBinding
-
-
 import java.util.*
 import kotlin.collections.ArrayList
 @SuppressLint("SetTextI18n")
