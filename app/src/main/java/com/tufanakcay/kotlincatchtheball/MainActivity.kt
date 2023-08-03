@@ -41,7 +41,6 @@ class MainActivity : AppCompatActivity() {
         imageArray.add(binding.imageView9)
 
 
-
         hideImages()
 
         //CountDown Timer
@@ -57,7 +56,6 @@ class MainActivity : AppCompatActivity() {
                 for (image in imageArray) {
                     image.visibility = View.INVISIBLE
                 }
-
 
 
                 //Alert
@@ -112,7 +110,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         handler.post(runnable)
-
     }
 
 
